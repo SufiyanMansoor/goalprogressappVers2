@@ -1,0 +1,17 @@
+{
+  "name": "goal",
+  "description": "Mean Stack and ionic",
+  "main": "server.js",
+  "authors": [
+    "Haseeb Rehman <haseebrehmanpc@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SufiyanMansoor/goalprogressappVers2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
